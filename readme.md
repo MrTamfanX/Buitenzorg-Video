@@ -4,7 +4,6 @@ Buitenzorg-Video is a tool that helps you download content on social media in bo
 Contact Person: 62 895-4140-93814
 
 ```html
-$ pkg install python-pip
 $ pip install youtube-dl
 ```
 Continue To Clone  :
